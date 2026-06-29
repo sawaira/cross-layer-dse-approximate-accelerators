@@ -1,0 +1,1 @@
+str = extractFileText(AM_Electrical_5.pdf)
